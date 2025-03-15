@@ -3,7 +3,7 @@
 ## Python Code Example
 
 ```python
-a = 1
+a = 7
 b = 3
 c=6
 print(a + b+c)
